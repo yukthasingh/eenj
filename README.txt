@@ -104,8 +104,8 @@ Please provide appropriate credit to the original template creator when reusing 
 
 ## ACKNOWLEDGMENTS
 
-* HTML5 UP for the original design
-* AJ (ajlkn) for creating the Stellar template
+- HTML5 UP for the original design
+- AJ (ajlkn) for creating the Stellar template
 
 ## NOTES
 
